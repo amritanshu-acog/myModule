@@ -1,3 +1,3 @@
 export const myModule=()=>{
-    console.log("inside custom module")
+    console.log("Nothing to see here!!!")
 }
