@@ -1,4 +1,3 @@
-function myModule() {
-    console.log("Nothing to see here!!!")
+export const customModule=()=>{
+    console.log("inside custom module")
 }
-module.exports = myModule;
